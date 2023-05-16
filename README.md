@@ -1,5 +1,6 @@
 # Computer-Architecture
 Created a CPU in Verilog for ECE251 Final Project created by Ilona Lameka and Ridwan Hussain.
+YouTube Link: https://youtu.be/ryBcM2Xm9zg
 
 # ISA for Besties CPU
 ![image](https://github.com/Ridwan-Hussain/Computer-Architecture/assets/114603278/b86b4ca5-3611-4f51-b5e2-3201a9b521e0)
