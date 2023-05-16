@@ -15,8 +15,8 @@
 
 `timescale 1ns/100ps
 
-`include "../Controller/controller.sv"
-`include "../Datapath/datapath.sv"
+`include "./Controller/controller.sv"
+`include "./Datapath/datapath.sv"
 
 module cpu
     	(input  logic clk, reset,
