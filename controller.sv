@@ -16,7 +16,7 @@
 
 `timescale 1ns/100ps
 
-`include "../MainDec/mainDec.sv"
+`include "./MainDec/mainDec.sv"
 //`include "../AluDec/aluDec.sv"
 
 module controller
