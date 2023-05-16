@@ -15,7 +15,7 @@
 `define TB_ADDER
 
 `timescale 1ns/100ps
-`include "fullAdder.sv"
+`include "./fullAdder.sv"
 
 module tb_fullAdder();
 
