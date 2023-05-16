@@ -13,7 +13,7 @@
 
 `timescale 1ns/100ps
 `include "./dmem.sv"
-`include "../Clock/clock.sv"
+`include "./clock.sv"
 
 module tb_dmem
 	#(parameter n = 32, parameter r = 7);
