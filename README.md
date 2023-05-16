@@ -5,6 +5,9 @@ Created a CPU in Verilog for ECE251 Final Project created by Ilona Lameka and Ri
 ![image](https://github.com/Ridwan-Hussain/Computer-Architecture/assets/114603278/b86b4ca5-3611-4f51-b5e2-3201a9b521e0)
 <sup>Datapath for our CPU.</sup>
 
+![image](https://github.com/cooper-union-ece-251-marano/ece-251-spring-2023-final-project-besties/assets/114603278/b3b5e5cf-3976-456e-8043-a9025855ca68)
+<sup>Format for the registers based on their values are defined.</sup>
+
 ![image](https://github.com/Ridwan-Hussain/Computer-Architecture/assets/114603278/d3ffbb4a-12b0-439f-a2ce-7703e0aa9b65)
 <sup>Register, Immediate, and Address Instruction Types Formating</sup>
 
