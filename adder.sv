@@ -14,7 +14,7 @@
 `ifndef ADDER
 `define ADDER
 
-`include "../FullAdder/fullAdder.sv"
+`include "./FullAdder/fullAdder.sv"
 `timescale 1ns/100ps
 
 module adder
