@@ -17,7 +17,7 @@
 `timescale 1ns/100ps
 
 `include "./computer.sv"
-`include "../Clock/clock.sv"
+`include "./Clock/clock.sv"
 
 module tb_computer;
   parameter n = 32; // # bits to represent the instruction / ALU operand / general purpose register (GPR)
