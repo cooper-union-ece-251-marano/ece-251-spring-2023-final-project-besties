@@ -16,9 +16,9 @@
 
 `timescale 1ns/100ps
 
-`include "./Cpu/cpu.sv"
-`include "./Imem/imem.sv"
-`include "./Dmem/dmem.sv"
+`include "./cpu.sv"
+`include "./imem.sv"
+`include "./dmem.sv"
 
 module computer(clk, reset, writeData, dataAddr, memWrite);
 	input logic clk, reset;
