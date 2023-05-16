@@ -12,7 +12,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 `timescale 1ns/100ps
-`include "../Clock/clock.sv"
+`include "./clock.sv"
 `include "./regFile.sv"
 
 module tb_regFile
