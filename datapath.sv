@@ -14,14 +14,14 @@
 `ifndef DATAPATH
 `define DATAPATH
 `timescale 1ns/100ps
-`include "./Clock/clock.sv"
-`include "./RegFile/regFile.sv"
-`include "./Alu/alu.sv"
-`include "./DFF/dff.sv"
-`include "./Adder/adder.sv"
-`include "./Sl2/sl2.sv"
-`include "./Mux2to1/mux2to1.sv"
-`include "./SignExtender/signExtender.sv"
+`include "./clock.sv"
+`include "./regFile.sv"
+`include "./alu.sv"
+`include "./dff.sv"
+`include "./adder.sv"
+`include "./sl2.sv"
+`include "./mux2to1.sv"
+`include "./signExtender.sv"
 
 module datapath
 	#(parameter n = 32, parameter r = 7)
