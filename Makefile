@@ -12,7 +12,7 @@
 # CHANGE THESE THREE LINES FOR YOUR DESIGN
 #
 #TOOL INPUT
-COMPONENT = cpu
+COMPONENT = computer
 #SRC = $(shell ls *.sv)
 SRC = $(wildcard *.sv)
 SIM_ARGS=+a=3 +b=2 +s=0
